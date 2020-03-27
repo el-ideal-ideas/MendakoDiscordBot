@@ -1,14 +1,13 @@
 # めんだこちゃんBot(Discord)
-Twitter API で収集したツイートを整形して学習させた、めんだこちゃんのマネをするだけのボット。
+Twitter API で収集したツイートを整形して学習させた、めんだこちゃんのフリをするだけのボット。
 
 ### 使い方
-下のURLにアクセスしてボットをサーバーに追加するだけ！(サーバーの管理者だけ)
-https://discordapp.com/api/oauth2/authorize?client_id=692748192546291742&permissions=198656&scope=bot
-あるいはボットテストサーバーに参加して試す。
-https://discord.gg/QhVkJHr
-
-`#mendako#`をメッセージの前に付けて発言したら反応します。
-メンションで話かけると、自分宛てに返事されます。
+- 下のURLにアクセスしてボットをサーバーに追加するだけ！(サーバーの管理者だけ)
+- https://discordapp.com/api/oauth2/authorize?client_id=692748192546291742&permissions=198656&scope=bot
+- あるいはボットテストサーバーに参加して試す。
+- https://discord.gg/QhVkJHr
+- `#mendako#`をメッセージの前に付けて発言したら反応します。
+- メンションで話かけると、自分宛てに返事されます。
 
 ### ライセンス (MIT)
 
